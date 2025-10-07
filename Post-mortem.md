@@ -1,5 +1,5 @@
 # I applogize to this game.
-##I T   D O E S N ' T   S U P P O S E   T O   B E   L I K E   T H I S ! ! !
+## I T   D O E S N ' T   S U P P O S E   T O   B E   L I K E   T H I S ! ! !
 
 I was planning to add sound to it when the main part is done, and before that, I decided to try it on JS13K tosee if it works properly.
 	And, what happened is I mistakenly **SUBMITTED** it due to my misunderstanding of the instructions......
